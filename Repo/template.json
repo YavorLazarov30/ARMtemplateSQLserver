@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "servers_yavorlazarovserver_name": {
-            "defaultValue": "yavorlazarovserver",
+            "defaultValue": "yavorlazarovserver12",
             "type": "String"
         }
     },
